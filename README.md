@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 Here are some of the cool things I’ve worked on:
 
-- 🍽️ [**Enat Bet** – Food Delivery App (Flutter + Laravel)][ENATEBET][(https://github.com/YOHANNES7766/ENATEBET) ](https://github.com/YOHANNES7766/Enate_bet_food_delivery)
+- 🍽️ [**Enat Bet** – Food Delivery App (Flutter + Laravel)](https://github.com/YOHANNES7766/Enate_bet_food_delivery)  
   A full-featured food delivery system with customer, restaurant, and admin roles — built with Flutter frontend and Laravel backend.
 
 - 🚔 [**TPMS** – Traffic Penalty Management System](https://github.com/YOHANNES7766/TPMS)  
