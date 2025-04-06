@@ -56,44 +56,6 @@ Book management platform with user-uploaded books and reviews.
 
 ---
 
-## 📌 Other Cool Projects
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 📝 [**Afronex Blog App**](https://github.com/YOHANNES7766/Afronex-task-1-Blog-web-app)  
-A blogging platform built with React for writing, managing, and publishing articles.  
-<sub><i>React + JavaScript</i></sub>  
-
-</td>
-    <td valign="top" width="50%">
-
-### 🎨 [**My Portfolio**](https://github.com/YOHANNES7766/My-portfolio)  
-A personal website built with React and Tailwind CSS to showcase my work.  
-<sub><i>React + Tailwind CSS</i></sub>  
-
-</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-### 💊 [**PharmaTrack**](https://github.com/YOHANNES7766/PharmaTrack)  
-Pharmacy system for inventory, billing, drug expiry alerts, and recall tracking.  
-<sub><i>JavaScript + Node.js</i></sub>  
-
-</td>
-    <td valign="top" width="50%">
-
-### ✈️ [**Air Passengers**](https://github.com/YOHANNES7766/air-passengers)  
-Responsive landing page for a travel agency using HTML, CSS, and SASS.  
-<sub><i>HTML + CSS + SASS</i></sub>  
-
-</td>
-  </tr>
-</table>
-
----
 
 ## 🌐 Connect With Me
 
