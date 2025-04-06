@@ -56,10 +56,9 @@ Book management platform with user-uploaded books and reviews.
 
 ---
 
-
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yohannes-dawit)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yohannes-dawit-a96642259/)  
 - 🌍 [Portfolio](https://www.yohannesportfolio.com)  
 - 📧 [Email](mailto:yohannesdawit360@gmail.com)
 
