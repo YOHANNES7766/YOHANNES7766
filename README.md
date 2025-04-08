@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer focused on building modern, user-friendly web and mobile applications. I enjoy solving real-world problems through clean code and engaging UI/UX.
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOHANNES7766&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohannes-dawit-a96642259/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=Google-Chrome)](https://www.yohannesportfolio.com)
+[![Email](https://img.shields.io/badge/Email-yohannesdawit360@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:yohannesdawit360@gmail.com)
+
 ---
 
 ## 💻 About Me
@@ -12,8 +17,24 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
   - **Backend:** Laravel (PHP), MySQL  
   - **Mobile:** Flutter + Firebase  
   - **Tools:** Git, GitHub, Docker, Postman, Thunder Client  
-  - **Languages:** JavaScript, Dart, PHP, C#
-- 🌱 **Learning:** API development with Laravel, backend integration in Flutter, and cloud deployment
+  - **Languages:** JavaScript, Dart, PHP, C#  
+- 🌱 **Learning:** API development with Laravel, backend integration in Flutter, and cloud deployment  
+
+---
+
+## 🛠 Tech Stack Badges
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -56,11 +77,20 @@ Book management platform with user-uploaded books and reviews.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOHANNES7766&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOHANNES7766&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yohannes-dawit-a96642259/)  
 - 🌍 [Portfolio](https://www.yohannesportfolio.com)  
-- 📧 [Email](mailto:yohannesdawit360@gmail.com)
+- 📧 [Email](mailto:yohannesdawit360@gmail.com)  
 
 ---
 
