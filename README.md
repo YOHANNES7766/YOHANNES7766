@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ## 🛠 Tech Stack Badges
 
+<div align="center">
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
@@ -36,6 +38,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -44,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
   <tr>
     <td valign="top" width="50%">
 
-### 🍽️ [**Enat Bet**](https://github.com/YOHANNES7766/Enate_bet_food_delivery)  
+### 🛵 [**Enat Bet**](https://github.com/YOHANNES7766/Enate_bet_food_delivery)  
 A full-featured food delivery system with customer, restaurant, and admin roles.  
 <sub><i>Flutter frontend + Laravel backend</i></sub>  
 
