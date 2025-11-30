@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Flutter+%26+Laravel+Enthusiast;Clean+UI%2FUX+Advocate;Passionate+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E0FF&center=true&vCenter=true&width=500&lines=Odoo+Developer;Full-Stack+Engineer;Flutter+%26+Laravel+Enthusiast;Clean+UI%2FUX+Advocate" />
 </p>
 
 <p align="center">
@@ -22,18 +22,20 @@
 
 # 💻 About Me
 
-- 🔭 **Current Focus:** Full-stack development (Flutter + Laravel ecosystem)  
-- ⚙️ **Core Skills:** React, Tailwind, MySQL, REST APIs  
-- 📱 **Mobile:** Flutter + Firebase  
-- 🛠 **Tools:** Git, GitHub, Docker, Postman, Thunder Client  
-- 🌱 **Learning:** scalable API design, JWT authentication, deployment automation
+- 💼 **Currently Working On:** **Odoo ERP Development** & Customization.
+- 🔭 **Focus:** Full-stack development (Flutter, Laravel & Python).
+- ⚙️ **Core Skills:** Odoo, React, Tailwind, MySQL, REST APIs.
+- 📱 **Mobile:** Flutter + Firebase.
+- 🛠 **Tools:** Git, GitHub, Docker, Postman.
+- 🌱 **Learning:** Scalable API design, JWT authentication, deployment automation.
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,flutter,firebase,mysql,js,php,cs,docker,postman,git,github&theme=dark" />
+  <!-- Added Python since you are doing Odoo -->
+  <img src="https://skillicons.dev/icons?i=python,react,tailwind,laravel,flutter,firebase,mysql,js,php,cs,docker,postman,git,github&theme=dark" />
 </p>
 
 ---
@@ -67,19 +69,6 @@
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOHANNES7766&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOHANNES7766&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOHANNES7766&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
